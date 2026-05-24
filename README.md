@@ -10,10 +10,6 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsadikale&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=nishantsadikale&show_icons=true&locale=en" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsadikale" alt="GitHub Streak" />
 
 ---
