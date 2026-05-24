@@ -18,12 +18,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=nishantsadikale&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-
----
-
 ### 🛠️ Tech & Tools
 
 #### 💻 Languages & Development
@@ -93,9 +87,16 @@
 
 ---
 
-### ✍️ Dev Quote
+### 💡 Product Philosophy
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+> "Fall in love with the problem, not the solution."
+> — *Marty Cagan*
+
+> "If you're not embarrassed by the first version of your product, you've launched too late."
+> — *Reid Hoffman*
+
+> "Your most unhappy customers are your greatest source of learning."
+> — *Bill Gates*
 
 ---
 
